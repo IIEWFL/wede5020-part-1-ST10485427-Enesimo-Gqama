@@ -22,8 +22,11 @@ The website will have a fully responsive design that is geared for all devices m
 Timeline and Milestones 
 
 Week 1: Planning and collecting content information.
+
 Week 2: Building the HTML structure and navigation implementation.
+
 Week 3: CSS styling and respective designs. 
+
 Week 4: Testing, Debugging and Deployment.
 
 Part 1
