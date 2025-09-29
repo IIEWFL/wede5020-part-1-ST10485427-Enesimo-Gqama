@@ -58,3 +58,12 @@ References
 www.thelunchboxfund.org. (n.d.). The Lunchbox Fund. [online] Available at: https://www.thelunchboxfund.org/.
 Anon, (n.d.). SOS Children’s Villages | A Loving Home for Every Child. [online] Available at: https://www.sossouthafrica.org.za/.
 Facebook.com. (2022). Botshabelo | Midrand. [online] Available at: https://www.facebook.com/botshabelomidrand/. 
+Google Fonts. (n.d.). Google Fonts. [online] Available at: https://fonts.google.com/specimen/Nunito.
+Google Fonts. (n.d.). Google Fonts. [online] Available at: https://fonts.google.com/specimen/Montserrat.
+Bianchi, F. (2025). Coolors. [online] Coolors.co. Available at: https://coolors.co/.
+
+‌
+
+‌
+
+‌
