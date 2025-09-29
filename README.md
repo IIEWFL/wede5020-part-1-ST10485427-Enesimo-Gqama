@@ -39,7 +39,19 @@ Sitemap
 
 Changelog
 
-The project has completed the initial HTML structure ensuring its usability. A navigation system has been built for all pages. Improvements include CSS styling; JavaScript interaction and donation system is connecting.
+The project has completed the initial HTML structure ensuring its usability. A navigation system has been built for all pages. Improvements include CSS styling; JavaScript interaction and donation system is connecting. CSS update: developed an external CSS stylesheet called styles.css and provided basic styling for colours, fonts and layouts. The website was made mobile responsive snd the navigation was optimised to perform seamlessly on both phones and tablets. There are changes on the buttons and forms, adding modest hover effects to enhance the overall user experience.
+
+Screenshots of website being used on different screens: 
+
+<img width="546" height="843" alt="Screenshot 2025-09-29 144009" src="https://github.com/user-attachments/assets/cf7097bc-0df3-4d66-b503-118b03288016" />
+<img width="485" height="823" alt="Screenshot 2025-09-29 144046" src="https://github.com/user-attachments/assets/0c49ffa8-a963-45f1-b9c8-fc7f6e5926e8" />
+<img width="469" height="820" alt="Screenshot 2025-09-29 144133" src="https://github.com/user-attachments/assets/709a43b0-8f09-4676-8366-536d90684c8e" />
+<img width="502" height="838" alt="Screenshot 2025-09-29 144220" src="https://github.com/user-attachments/assets/02f5141f-21e6-42c7-bbbe-148f3549e41e" />
+<img width="1180" height="660" alt="Screenshot 2025-09-29 144316" src="https://github.com/user-attachments/assets/b817fd1c-d0e2-4b70-995e-e33b56c20aa1" />
+<img width="1147" height="655" alt="Screenshot 2025-09-29 144341" src="https://github.com/user-attachments/assets/91547f98-8be9-4c21-bd9f-a1c576f10309" />
+<img width="1152" height="672" alt="Screenshot 2025-09-29 144429" src="https://github.com/user-attachments/assets/032c7239-50fa-4fe6-ae03-69e639e8a0c3" />
+<img width="1133" height="642" alt="Screenshot 2025-09-29 144505" src="https://github.com/user-attachments/assets/b903cf73-b1b6-4730-a0fb-e8a37fe3eb18" />
+
 
 References 
 
